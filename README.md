@@ -1,5 +1,5 @@
 # docker4nightscout
-Docker for Nightscout by @PabloŃczyk
+Docker for Nightscout by [@p5nbTgip0r](https://github.com/p5nbTgip0r)
 
 version 14.2.2
 
